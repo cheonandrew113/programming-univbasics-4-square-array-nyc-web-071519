@@ -11,7 +11,7 @@ def square_array(array)
 	doubled_num << new_num
     
     i += 1
-end
+
 end
   return doubled_num
 end

@@ -1,3 +1,4 @@
 def square_array(array)
-  # your code here
+  # does not call on each, collect, map, or inject'
+  #
 end

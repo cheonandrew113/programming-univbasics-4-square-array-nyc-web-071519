@@ -7,7 +7,7 @@ def square_array(array)
   
   while i < array.length
     old_num = array[i]
-    new_num = old_num * 2
+    new_num = old_num * old_num
 	doubled_num << new_num
     
     i += 1
